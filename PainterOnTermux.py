@@ -93,7 +93,7 @@ def choice():
 		os.system("clear")
 		print(me)
 		print("\n"*3)
-		print(g+"                Good bey   ^__^  "+w)
+		print(g+"                Bye-Bye!   ^__^  "+w)
 		print("\n"*2)
 		exit()
 		
