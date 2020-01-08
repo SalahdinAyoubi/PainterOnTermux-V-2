@@ -8,9 +8,9 @@ Painter on termux version 0. 002
 
 2 - pkg install python
 
-3 - pkg install git
+3 - pkg install git 
 
-4 - git clone 
+4 - git clone https://github.com/SalahdinAyoubi/PainterOnTermux-V-2.git 
 
 5 - cd PainterOnTermux
 
