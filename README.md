@@ -12,7 +12,7 @@ Painter on termux version 0. 002
 
 4 - git clone https://github.com/SalahdinAyoubi/PainterOnTermux-V-2.git 
 
-5 - cd PainterOnTermux
+5 - cd PainterOnTermux-V-2
 
 6 - ls
 
