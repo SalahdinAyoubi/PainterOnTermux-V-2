@@ -74,7 +74,7 @@ def choice():
 	ch="""{}
   01{}  - Creat your Name on termux
   {}02 {} - change  Style in termux
-  {}03 {} - Add Button on pantel 
+  {}03 {} - Add Button on Termux 
   {}04{}  - About 
   {}05{}  - Exit
 """
